@@ -71,7 +71,7 @@ handle other devices with Prismatik such as Adalight, Ardulight, or even Alienwa
 Prismatik supports multiple Lightpack devices and merges them into one. For other devices, you have two options to run on mulitple monitors:
 * Make one device cover both monitors by having one LED strip run around both displays (recommended)
 * Run two instances of Prismatik (using the `--config-dir` command line option) with each configured for one monitor/device.
-See #280 for details.
+See [#280](https://github.com/psieg/Lightpack/issues/280) for details.
 
 
 ##### Making Plugins:
